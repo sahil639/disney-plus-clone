@@ -1,3 +1,7 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable no-unused-vars */
 import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import { auth, provider } from '../firebase'
@@ -164,12 +168,12 @@ const UserImg = styled.img`
 
 const Login = styled.div`
   border: 1px solid #f9f9f9;
-  padding: 8px 16px;
-   border-radius: 4px;
-   letter-spacing: 1.5px;
-   text-transform: uppercase;
-   background-color: #rgba(0, 0, 0, 0.6);
-   cursor: pointer;
+  /* padding: 8px 16px; */
+  border-radius: 4px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  /* background-color: #rgba(0, 0, 0, 0.6); */
+  cursor: pointer;
 
    &:hover {
      background-color: #f9f9f9;

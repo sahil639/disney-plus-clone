@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { configureStore } from '@reduxjs/toolkit';
 import { useReducer } from '../features/user/userSlice';
 import userSlice from '../features/user/userSlice';

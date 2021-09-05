@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState} from 'react'
 import styled from 'styled-components'
 import { useParams } from "react-router-dom"
