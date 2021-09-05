@@ -1,3 +1,10 @@
+
+# Disney Plus Clone using REACT-REDUX 
+
+This react-app was created using react-redux by following clever programmers disney plus clone tutorial. The app has firebase authentication. The app is hosted with netlify. Visit the link below nad fork the repo make your own changes!
+
+## Link to the site : https://disney-clone-redux.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
